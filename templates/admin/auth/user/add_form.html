@@ -1,0 +1,10 @@
+{% extends 'admin/change_form.html' %}
+{% load i18n %}
+
+{% block form_top %}
+{% if not is_popup %}
+    <p>First enter an email, password and type. Then, you'll be able to edit more user options.</p>
+{% else %}
+    <p>Enter email, password and type.</p>    
+{% endif %}
+{% endblock %}

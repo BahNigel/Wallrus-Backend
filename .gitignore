@@ -1,0 +1,11 @@
+wallrus_env
+.env
+*.pyc
+*.log
+__pycache__
+static
+media
+
+db.sqlite3
+db
+env
