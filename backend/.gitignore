@@ -1,5 +1,4 @@
 wallrus_env
-.env
 *.pyc
 *.log
 __pycache__
