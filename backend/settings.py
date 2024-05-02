@@ -238,8 +238,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'email-smtp.eu-north-1.amazonaws.com'  # Check SES SMTP settings in AWS console
 EMAIL_PORT = 587  # TLS port
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'AKIAVRUVV4B76D6LMY6J'
-EMAIL_HOST_PASSWORD = 'BJbwo5des8Ut+DGs57F1znWzd393ieuVqavFVjV03xk6'
+EMAIL_HOST_USER = 'AKIAVRUVV4B7TDDMLEG7'
+EMAIL_HOST_PASSWORD = 'BEVgUhp869p20Zy9BXA1txhTvM63rk21Wp/IHItudKph'
 
 
 RAZORPAY_KEY_ID = config("RAZORPAY_KEY_ID")
