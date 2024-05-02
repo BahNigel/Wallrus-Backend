@@ -243,7 +243,7 @@ EMAIL_PORT = 587  # TLS port
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'AKIAVRUVV4B7TDDMLEG7'  # SES SMTP username
 EMAIL_HOST_PASSWORD = 'BEVgUhp869p20Zy9BXA1txhTvM63rk21Wp/IHItudKph'  # SES SMTP password
-DEFAULT_FROM_EMAIL = 'thewallruscompany.com'  # Default sender email address
+DEFAULT_FROM_EMAIL = 'mail.thewallruscompany.com'  # Default sender email address
 
 # Other Django settings...
 
