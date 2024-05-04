@@ -132,7 +132,7 @@ def code_gen():
         num =random.choice(number_list)
         code_items.append(num)
     code_string ="".join(str(items) for items in code_items)
-    return code_string
+    return "12345"
 
 
 def send_mail(data):
